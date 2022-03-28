@@ -2,7 +2,7 @@
 
 #include "ofConstants.h"
 #include "glm/glm.hpp"
-
+#include <corecrt_math_defines.h>
 #include "ofxCv.h"
 
 class ofxFaceTracker2InputInfo {
